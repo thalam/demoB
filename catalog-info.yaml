@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: DemoA
+  name: DemoB
   description: An exampleB deployment of a Backstage application.
   annotations:
-    github.com/project-slug: thalam/demoA
+    github.com/project-slug: thalam/demoB
 spec:
   type: library
   owner: Nihanth Joseph
